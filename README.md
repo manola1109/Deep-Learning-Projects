@@ -17,15 +17,7 @@ A collection of Deep Learning projects implemented in Jupyter Notebooks.
 - **TensorFlow** & **Keras**: Building and training deep learning models (Keras as the high-level API)  
 - **OpenCV**: Image processing for computer vision tasks  
 - **NLTK**, **spaCy**, or **TensorFlow Text**: Text processing and NLP (in text-related modules)  
-- **Jupyter Notebook**: Interactive code, documentation, and visualization  
-
----
-
-## 📚 Curriculum & Progress Overview
-
-The course structure, progress, and topics covered are shown below:
-
-![Curriculum Progress Overview](image2)
+- **Jupyter Notebook**: Interactive code, documentation, and visualization 
 
 ---
 
@@ -76,12 +68,6 @@ The course structure, progress, and topics covered are shown below:
 2. **Complete Assignments & Projects:** Practice with hands-on exercises and the capstone project.
 3. **Track Your Progress:** Use the curriculum image as a visual checklist.
 4. **Experiment:** Modify code, try different datasets, and explore new architectures.
-
----
-
-## 🖼️ Curriculum Image Reference
-
-- The image above (`image2`) summarizes your course modules and progress.
 
 ---
 
